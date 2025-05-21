@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I'm Sid Richards
+🧠 Theoretical Physics & Maths graduate with a passion for **quantum computing** & **numerical simulations**.
 
-<!--
-**SidRichardsQuantum/SidRichardsQuantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 I'm currently building a portfolio of quantum projects, exploring topics like:
+- Topological photonics and exotic laser dynamics
+- Shor’s algorithm
+- Variational Quantum Eigensolvers (VQE)
+- Quantum-enhanced portfolio optimization
+- Quantum error correction & noise modeling
 
-Here are some ideas to get you started:
+🛠️ Tools & Frameworks I use:
+`Python` • `Qiskit` • `NumPy` • `matplotlib` • `Tableau` • `R`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Background:
+- 🎓 First-Class MSci in Theoretical Physics & Mathematics, from Lancaster University
+- 🧑‍💻 Data Analyst, using data to guide advertising and SEO performance
+- 📄 [LinkedIn](https://www.linkedin.com/in/sid-richards-21374b30b/)
+
+📫 Reach me: siddrichards@hotmail.co.uk
