@@ -14,6 +14,6 @@
 📚 Background:
 - 🎓 First-Class MSci in Theoretical Physics & Mathematics, from Lancaster University
 - 🧑‍💻 Data Analyst, using data to guide advertising and SEO performance
-- 📄 [LinkedIn](https://www.linkedin.com/in/sid-richards-21374b30b/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> [LinkedIn](https://www.linkedin.com/in/sid-richards-21374b30b/)
 
 📫 Reach me: siddrichards@hotmail.co.uk
