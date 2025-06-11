@@ -17,5 +17,3 @@ Currently working as a Data Analyst, optimizing marketing and SEO performance.
 - 🧑‍💻 Data Analyst - using data to guide company decisions!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> [LinkedIn](https://www.linkedin.com/in/sid-richards-21374b30b/)
-
-📫 Reach me: siddrichards@hotmail.co.uk
