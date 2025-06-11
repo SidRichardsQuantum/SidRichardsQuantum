@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Sid Richards
 🧠 Theoretical Physics & Maths graduate with a passion for **quantum computing** & **numerical simulations**.
-Currently working as a Data Analyst, optimizing marketing and SEO performance.
 
 🔬 I'm currently building a portfolio of quantum projects:
 - Dynamics of Topological Photonics https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics
