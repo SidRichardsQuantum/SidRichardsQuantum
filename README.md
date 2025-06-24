@@ -3,7 +3,7 @@
 
 🔬 I'm currently building a portfolio of quantum projects:
 - [Dynamics of Topological Photonics](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
-- [Shor’s Algorithm Simulatio](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
+- [Shor’s Algorithm Simulation](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
 - [Iteration Methods and Celestial Dynamics](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
 - Variational Quantum Eigensolver (VQE)
 - Quantum portfolio optimization
