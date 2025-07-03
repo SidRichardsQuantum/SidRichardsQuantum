@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Sid Richards
-🧠 Theoretical Physics & Maths graduate with a passion for **quantum computing** & **numerical simulations**.
+🧠 Theoretical Physics & Maths graduate with a passion for **quantum engineering**, **quantum computing** & **numerical simulations and modelling**.
 
 🔬 I'm currently building a portfolio of physics and maths projects:
 - [Dynamics of Topological Photonics](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
@@ -9,7 +9,7 @@
 - Portfolio Optimization Using VQE
 - Quantum Error Correction & Noise Modeling
 
-🛠️ Tools & Frameworks I may use:
+🛠️ Tools & Frameworks I use:
 `Python` • `Qiskit` • `NumPy` • `matplotlib` • `Tableau` • `R`
 
 📚 Background:
