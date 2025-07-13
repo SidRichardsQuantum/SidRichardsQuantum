@@ -5,7 +5,7 @@
 - [Dynamics of Topological Photonics](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
 - [Shor’s Algorithm Simulation](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
 - [Comparing Iteration Methods Via Celestial Dynamics](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
-- Variational Quantum Eigensolver (VQE)
+- [Variational Quantum Eigensolver (VQE)](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 - Portfolio Optimization Using VQE
 - Quantum Error Correction & Noise Modeling
 
