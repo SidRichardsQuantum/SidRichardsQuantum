@@ -10,7 +10,7 @@
 - Quantum Error Correction & Noise Modeling
 
 🛠️ Tools & Frameworks I use:
-`Python` • `Qiskit` • `NumPy` • `matplotlib` • `Tableau` • `R`
+`Python` • `R` • `Qiskit` • `PennyLane` • `NumPy` • `matplotlib` • `Tableau`
 
 📚 Background:
 - 🎓 First-Class MSci in Theoretical Physics & Mathematics from Lancaster University
