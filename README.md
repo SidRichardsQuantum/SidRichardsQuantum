@@ -7,7 +7,7 @@
 - [Comparing Iteration Methods Via Celestial Dynamics](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
 - [Variational Quantum Eigensolver (VQE)](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 - [Portfolio Optimization Using VQE](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
-- Quantum Error Correction & Noise Modeling
+- [Quantum Error Correction](https://github.com/SidRichardsQuantum/Quantum_Error_Correction)
 
 🛠️ Tools & Frameworks I use:
 `Python` • `R`• `PennyLane` • `MATLAB` • `Qiskit`  • `NumPy` • `matplotlib` • `Tableau`
