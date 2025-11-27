@@ -34,7 +34,7 @@ Includes binary-encoded and fractional-ansatz approaches using PennyLane, with f
 Explores the fundamentals of quantum error correction and early implementations of small error-correcting codes.
 A growing project aligned with my long-term interest in fault-tolerant quantum computing.
 
-[**Quantum Linear Solver (Work in Progress)**](https://github.com/SidRichardsQuantum/QSVT_Linear_Equations)
+[**Quantum Linear Solver (Work in Progress)**](https://github.com/SidRichardsQuantum/Quantum_Linear_Algebra_Algorithms)
 A developing repository implementing quantum linear-system solvers using concepts from block-encoding, QSVT, and HHL-style formulations.
 Designed to complement my VQE/QPE work with more advanced quantum algorithmic techniques.
 
