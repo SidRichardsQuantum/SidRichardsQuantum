@@ -14,21 +14,23 @@ A full simulation suite exploring nonlinear gain/loss, edge modes, and stability
 Includes phase diagrams, time-evolution solvers, Hamiltonian construction, and analysis relevant to photonics, nonlinear optics, and topological quantum systems.
 This is revamped code from my uni dissertation: "Dynamics of Topological Photonics with Nonlinear Saturable Gain and Loss".
 
-[**Shor’s Algorithm – Classical Quantum Circuit Simulation**](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
-A pure-Python, matrix-based classical simulation of Shor’s quantum factoring algorithm.
-Implements superposition, modular exponentiation, IQFT, probability visualisation, runtime scaling, and educational tooling without relying on quantum frameworks.
-
 [**Variational Quantum Eigensolver (VQE) & Quantum Phase Estimation (QPE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 A modular PennyLane-based package for VQE and QPE applied to H₂, LiH, H₂O and H₃⁺.
 Features a full VQE engine with ansatz modules, optimisers, caching, reproducibility tests, molecular Hamiltonian generation, visualisation tools, and parallel QPE simulations (noisy and noiseless).
-
-[**Celestial Dynamics – Iteration Methods Comparison**](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
-A numerical physics project comparing Euler, Midpoint, Heun, and RK4 schemes through gravitational simulations.
-Includes projectile motion, two-body and three-body orbits, chaos behaviour, and energy-conservation analysis implemented primarily in R Code.
+Published on PyPI at [https://pypi.org/project/vqe-pennylane/](https://pypi.org/project/vqe-pennylane/)
 
 [**Portfolio Optimisation via VQE**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
 A quantum optimisation project mapping portfolio selection to a QUBO and solving it with VQE.
 Includes binary-encoded and fractional-ansatz approaches using PennyLane, with full derivations and results.
+Published on PyPI at [https://pypi.org/project/vqe-portfolio/](https://pypi.org/project/vqe-portfolio/)
+
+[**Shor’s Algorithm – Classical Quantum Circuit Simulation**](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
+A pure-Python, matrix-based classical simulation of Shor’s quantum factoring algorithm.
+Implements superposition, modular exponentiation, IQFT, probability visualisation, runtime scaling, and educational tooling without relying on quantum frameworks.
+
+[**Celestial Dynamics – Iteration Methods Comparison**](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
+A numerical physics project comparing Euler, Midpoint, Heun, and RK4 schemes through gravitational simulations.
+Includes projectile motion, two-body and three-body orbits, chaos behaviour, and energy-conservation analysis implemented primarily in R Code.
 
 [**Quantum Error Correction (Work in Progress)**](https://github.com/SidRichardsQuantum/Quantum_Error_Correction)
 Explores the fundamentals of quantum error correction and early implementations of small error-correcting codes.
