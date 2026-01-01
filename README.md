@@ -9,11 +9,6 @@ My work spans quantum chemistry, quantum error mitigation, classical simulations
 
 ## 🚀 Featured Projects
 
-[**Dynamics of Topological Photonics**](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
-A full simulation suite exploring nonlinear gain/loss, edge modes, and stability regimes in non-Hermitian topological lattices (NRSSH & Diamond models).
-Includes phase diagrams, time-evolution solvers, Hamiltonian construction, and analysis relevant to photonics, nonlinear optics, and topological quantum systems.
-This is revamped code from my uni dissertation: "Dynamics of Topological Photonics with Nonlinear Saturable Gain and Loss".
-
 [**Variational Quantum Eigensolver (VQE) & Quantum Phase Estimation (QPE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 A modular PennyLane-based package for VQE and QPE applied to H₂, LiH, H₂O and H₃⁺.
 Features a full VQE engine with ansatz modules, optimisers, caching, reproducibility tests, molecular Hamiltonian generation, visualisation tools, and parallel QPE simulations (noisy and noiseless).
@@ -23,6 +18,11 @@ Published on PyPI at [https://pypi.org/project/vqe-pennylane/](https://pypi.org/
 A quantum optimisation project mapping portfolio selection to a QUBO and solving it with VQE.
 Includes binary-encoded and fractional-ansatz approaches using PennyLane, with full derivations and results.
 Published on PyPI at [https://pypi.org/project/vqe-portfolio/](https://pypi.org/project/vqe-portfolio/)
+
+[**Dynamics of Topological Photonics**](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
+A full simulation suite exploring nonlinear gain/loss, edge modes, and stability regimes in non-Hermitian topological lattices (NRSSH & Diamond models).
+Includes phase diagrams, time-evolution solvers, Hamiltonian construction, and analysis relevant to photonics, nonlinear optics, and topological quantum systems.
+This is revamped code from my uni dissertation: "Dynamics of Topological Photonics with Nonlinear Saturable Gain and Loss".
 
 [**Shor’s Algorithm – Classical Quantum Circuit Simulation**](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
 A pure-Python, matrix-based classical simulation of Shor’s quantum factoring algorithm.
