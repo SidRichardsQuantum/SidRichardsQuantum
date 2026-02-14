@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sid Richards
-**Aspiring Quantum Computing Engineer**
+**Quantum Computing Engineer**
 Focused on quantum algorithms (VQE, QPE, Shor), numerical simulation, and physics-driven modelling.
 
-I have a First-Class MSci in Theoretical Physics & Mathematics and I build research-grade, well-structured open-source projects across quantum computing, photonics, numerical methods, and applied optimisation.
+I have a First-Class MSci in Theoretical Physics & Mathematics from Lancaster University and I build research-grade open-source projects across quantum computing, photonics, numerical methods, and applied optimisation.
 My work spans quantum chemistry, quantum error mitigation, classical simulations of quantum algorithms, and high-performance scientific modelling.
 
 ---
