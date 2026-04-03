@@ -17,10 +17,11 @@ A modular, reproducible PennyLane-based **quantum chemistry simulation suite** f
 * Unified `common/` layer: Hamiltonians, molecule registry, geometry scans, plotting, persistence
 * PyPI: [vqe-pennylane](https://pypi.org/project/vqe-pennylane/)
 
-### [**Portfolio Optimisation via VQE**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
+### [**Portfolio Optimisation via VQE & QAOA**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
 Quantum optimisation toolkit for portfolio problems, engineered as a clean Python library (notebooks are thin clients).
-* **Binary selection**: cardinality-constrained QUBO/Ising formulation solved with VQE
+* **Binary selection**: cardinality-constrained QUBO/Ising formulation solved with **VQE and QAOA**
 * **Fractional allocation**: simplex-constrained ansatz for long-only weights (constraint by construction)
+* QUBO → Ising Hamiltonian pipeline from covariance matrices and expected returns
 * CLI + API workflows, λ-sweeps, efficient frontier utilities
 * PyPI: [vqe-portfolio](https://pypi.org/project/vqe-portfolio/)
 
