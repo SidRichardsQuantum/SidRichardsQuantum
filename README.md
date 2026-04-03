@@ -9,13 +9,22 @@ My work spans quantum chemistry, quantum error mitigation, classical simulations
 
 ## 🚀 Featured Projects
 
-### [**Variational Quantum Algorithms for Quantum Chemistry (VQE, QPE, QITE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
+### [**Variational Quantum Algorithms for Quantum Chemistry (VQE, QPE, QITE) (Work in Progress)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 A modular, reproducible PennyLane-based **quantum chemistry simulation suite** for small-molecule benchmarks (H₂, LiH, H₂O, H₃⁺), shipped as a versioned Python package with CLI tooling and consistent caching.
 * VQE (ground state) + **ADAPT-VQE**
 * Excited states: **LR-VQE (tangent-space / TDA)**, **QSE**, **SSVQE**, **VQD**
 * **QPE** (noisy + noiseless) and **VarQITE/QITE** (McLachlan updates)
 * Unified `common/` layer: Hamiltonians, molecule registry, geometry scans, plotting, persistence
 * PyPI: [vqe-pennylane](https://pypi.org/project/vqe-pennylane/)
+
+### [**Quantum Machine Learning (QML) (Work in Progress)**](https://github.com/SidRichardsQuantum/Quantum_Machine_Learning)
+Reusable quantum machine learning library built on PennyLane, engineered with the same modular architecture as my VQE toolkit.
+* Variational Quantum Classifier (VQC) with configurable ansatz layers and optimizers
+* Quantum kernel workflows integrated with sklearn SVC
+* Variational regression with standardized training and evaluation pipelines
+* Deterministic experiment configs, structured result persistence, and consistent plotting utilities
+* CLI + API workflows; notebooks serve as thin usage examples
+* PyPI: [qml-pennylane](https://pypi.org/project/qml-pennylane/)
 
 ### [**Portfolio Optimisation via VQE & QAOA**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
 Quantum optimisation toolkit for portfolio problems, engineered as a clean Python library (notebooks are thin clients).
