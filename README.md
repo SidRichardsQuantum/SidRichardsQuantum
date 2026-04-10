@@ -68,5 +68,16 @@ Former Data Analyst with experience automating workflows, building analytical pi
 
 ---
 
+## Support
+
+If this project helps your research or work, consider sponsoring development.
+
+GitHub Sponsors helps maintain documentation, examples, and new features.
+
+Sponsor:
+[https://github.com/sponsors/SidRichardsQuantum](https://github.com/sponsors/SidRichardsQuantum)
+
+---
+
 ## 📫 Contact
 LinkedIn: [https://www.linkedin.com/in/sid-richards-21374b30b/](https://www.linkedin.com/in/sid-richards-21374b30b/)
