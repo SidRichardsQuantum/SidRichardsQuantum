@@ -26,6 +26,7 @@ A modular, reproducible PennyLane-based **quantum chemistry simulation suite**, 
 - Deterministic runs with structured outputs and reproducible pipelines
 
 PyPI: https://pypi.org/project/vqe-pennylane/
+
 Website: https://sidrichardsquantum.github.io/Variational_Quantum_Eigensolver/
 
 ---
