@@ -9,12 +9,12 @@ My work spans quantum chemistry, quantum error mitigation, classical simulation 
 
 I'm currently in Sydney, Australia (Working Holiday Visa, subclass 417), working in Home Automation.
 
-Here is my personal website:
+**Personal website:**
 https://SidRichardsQuantum.github.io/
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [**Variational Quantum Algorithms for Quantum Chemistry (VQE, QPE, QITE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 
@@ -29,8 +29,6 @@ PyPI: https://pypi.org/project/vqe-pennylane/
 
 Website: https://sidrichardsquantum.github.io/Variational_Quantum_Eigensolver/
 
----
-
 ### [**Quantum Machine Learning (QML)**](https://github.com/SidRichardsQuantum/Quantum_Machine_Learning)
 
 Reusable **PennyLane-based quantum machine learning library** following a package-first architecture.
@@ -42,7 +40,17 @@ Reusable **PennyLane-based quantum machine learning library** following a packag
 
 PyPI: https://pypi.org/project/qml-pennylane/
 
----
+### [**Quantum Backend Bench**](https://github.com/SidRichardsQuantum/Quantum_Backend_Bench)
+
+Backend-agnostic benchmarking toolkit for comparing local quantum circuit simulators across multiple SDK ecosystems.
+
+- Unified benchmarking workflows across **Cirq, PennyLane, Amazon Braket, Qiskit Aer, CUDA-Q, pyQuil, and QuTiP**
+- Standardised runtime, circuit depth, gate-count, and probability-distribution metrics
+- Built-in benchmark suite including GHZ, QFT, Grover, QAOA MaxCut, Bernstein–Vazirani, Deutsch–Jozsa, Hamiltonian simulation, and noise sensitivity analysis
+- CLI + Python API workflows with JSON/CSV export, plotting, experiment manifests, and reproducible benchmark suites
+- Research-oriented tooling for backend comparison, simulator validation, and execution profiling
+
+PyPI: https://pypi.org/project/quantum-backend-bench/
 
 ### [**Portfolio Optimisation via VQE & QAOA**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
 
@@ -55,8 +63,6 @@ Quantum optimisation toolkit for portfolio problems, designed as a clean and reu
 
 PyPI: https://pypi.org/project/vqe-portfolio/
 
----
-
 ### [**Quantum Singular Value Transformation (QSVT)**](https://github.com/SidRichardsQuantum/Quantum_Singular_Value_Transformation)
 
 Lightweight toolkit for **spectral transformations via bounded polynomials**, focused on practical QSVT workflows.
@@ -68,8 +74,6 @@ Lightweight toolkit for **spectral transformations via bounded polynomials**, fo
 
 PyPI: https://pypi.org/project/qsvt-pennylane/
 
----
-
 ### [**Dynamics of Topological Photonics**](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
 
 Simulation suite exploring nonlinear gain/loss, edge modes, and stability in non-Hermitian topological lattices (NRSSH & Diamond models).
@@ -77,7 +81,9 @@ Simulation suite exploring nonlinear gain/loss, edge modes, and stability in non
 Based on my MSci dissertation:
 *“Dynamics of Topological Photonics with Nonlinear Saturable Gain and Loss”*
 
----
+PyPI: https://pypi.org/project/dynamics-of-topological-photonics/
+
+Website: https://sidrichardsquantum.github.io/Dynamics_of_Topological_Photonics/
 
 ### [**Shor’s Algorithm – Classical Quantum Circuit Simulation**](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
 
@@ -87,23 +93,23 @@ Pure-Python, matrix-based classical simulation of Shor’s factoring algorithm.
 - IQFT, modular exponentiation, and probability visualisation
 - Educational diagnostics and runtime scaling analysis
 
-Website: https://sidrichardsquantum.github.io/Shors_Algorithm_Simulation/
+PyPI: https://pypi.org/project/shors-algorithm-simulation/
 
----
+Website: https://sidrichardsquantum.github.io/Shors_Algorithm_Simulation/
 
 ### [**Celestial Dynamics – Iteration Methods Comparison**](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
 
 Numerical simulation suite comparing time-stepping methods via gravitational dynamics.
 
-- Euler, Midpoint, Heun, RK4, Velocity Verlet
+- Euler, Midpoint, Heun, RK4, Verlet
 - Projectile motion, two-body, and three-body systems
 - Energy conservation diagnostics and reproducible analysis pipeline
 
+R-universe: https://sidrichardsquantum.r-universe.dev/CelestialDynamicsIterationMethods
+
 Website: https://sidrichardsquantum.github.io/Celestial_Dynamics_Iteration_Methods/
 
----
-
-### [**Quantum Error Correction (Work in Progress)**](https://github.com/SidRichardsQuantum/Quantum_Error_Correction)
+### [**Quantum Error Correction**](https://github.com/SidRichardsQuantum/Quantum_Error_Correction)
 
 Exploration of quantum error correction fundamentals and early implementations of small error-correcting codes, aligned with long-term interest in fault-tolerant quantum computing.
 
