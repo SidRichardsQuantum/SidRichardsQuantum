@@ -9,14 +9,11 @@ My work spans quantum chemistry, quantum error mitigation, classical simulation 
 
 I'm currently in Sydney, Australia (Working Holiday Visa, subclass 417), working in Home Automation.
 
-**Personal website:**
-https://SidRichardsQuantum.github.io/
+**Personal website:** https://SidRichardsQuantum.github.io/
 
 ---
 
-## Featured Projects
-
-### [**Variational Quantum Algorithms for Quantum Chemistry (VQE, QPE, QITE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
+## [**Variational Quantum Algorithms for Quantum Chemistry (VQE, QPE, QITE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 
 A modular, reproducible PennyLane-based **quantum chemistry simulation suite**, engineered as a clean Python package with CLI + API workflows.
 
@@ -29,7 +26,9 @@ PyPI: https://pypi.org/project/vqe-pennylane/
 
 Website: https://sidrichardsquantum.github.io/Variational_Quantum_Eigensolver/
 
-### [**Quantum Machine Learning (QML)**](https://github.com/SidRichardsQuantum/Quantum_Machine_Learning)
+---
+
+## [**Quantum Machine Learning (QML)**](https://github.com/SidRichardsQuantum/Quantum_Machine_Learning)
 
 Reusable **PennyLane-based quantum machine learning library** following a package-first architecture.
 
@@ -40,7 +39,11 @@ Reusable **PennyLane-based quantum machine learning library** following a packag
 
 PyPI: https://pypi.org/project/qml-pennylane/
 
-### [**Quantum Backend Bench**](https://github.com/SidRichardsQuantum/Quantum_Backend_Bench)
+Website: https://sidrichardsquantum.github.io/Quantum_Machine_Learning/
+
+---
+
+## [**Quantum Backend Bench**](https://github.com/SidRichardsQuantum/Quantum_Backend_Bench)
 
 Backend-agnostic benchmarking toolkit for comparing local quantum circuit simulators across multiple SDK ecosystems.
 
@@ -52,7 +55,11 @@ Backend-agnostic benchmarking toolkit for comparing local quantum circuit simula
 
 PyPI: https://pypi.org/project/quantum-backend-bench/
 
-### [**Portfolio Optimisation via VQE & QAOA**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
+Website: https://sidrichardsquantum.github.io/Quantum_Backend_Bench/
+
+---
+
+## [**Portfolio Optimisation via VQE & QAOA**](https://github.com/SidRichardsQuantum/VQE_Portfolio_Optimization)
 
 Quantum optimisation toolkit for portfolio problems, designed as a clean and reusable Python library.
 
@@ -63,7 +70,11 @@ Quantum optimisation toolkit for portfolio problems, designed as a clean and reu
 
 PyPI: https://pypi.org/project/vqe-portfolio/
 
-### [**Quantum Singular Value Transformation (QSVT)**](https://github.com/SidRichardsQuantum/Quantum_Singular_Value_Transformation)
+Website: https://sidrichardsquantum.github.io/VQE_Portfolio_Optimization/
+
+---
+
+## [**Quantum Singular Value Transformation (QSVT)**](https://github.com/SidRichardsQuantum/Quantum_Singular_Value_Transformation)
 
 Lightweight toolkit for **spectral transformations via bounded polynomials**, focused on practical QSVT workflows.
 
@@ -74,7 +85,11 @@ Lightweight toolkit for **spectral transformations via bounded polynomials**, fo
 
 PyPI: https://pypi.org/project/qsvt-pennylane/
 
-### [**Dynamics of Topological Photonics**](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
+Website: https://sidrichardsquantum.github.io/Quantum_Singular_Value_Transformation/
+
+---
+
+## [**Dynamics of Topological Photonics**](https://github.com/SidRichardsQuantum/Dynamics_of_Topological_Photonics)
 
 Simulation suite exploring nonlinear gain/loss, edge modes, and stability in non-Hermitian topological lattices (NRSSH & Diamond models).
 
@@ -85,7 +100,9 @@ PyPI: https://pypi.org/project/dynamics-of-topological-photonics/
 
 Website: https://sidrichardsquantum.github.io/Dynamics_of_Topological_Photonics/
 
-### [**Shor’s Algorithm – Classical Quantum Circuit Simulation**](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
+---
+
+## [**Shor’s Algorithm – Classical Quantum Circuit Simulation**](https://github.com/SidRichardsQuantum/Shors_Algorithm_Simulation)
 
 Pure-Python, matrix-based classical simulation of Shor’s factoring algorithm.
 
@@ -97,7 +114,9 @@ PyPI: https://pypi.org/project/shors-algorithm-simulation/
 
 Website: https://sidrichardsquantum.github.io/Shors_Algorithm_Simulation/
 
-### [**Celestial Dynamics – Iteration Methods Comparison**](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
+---
+
+## [**Celestial Dynamics – Iteration Methods Comparison**](https://github.com/SidRichardsQuantum/Celestial_Dynamics_Iteration_Methods)
 
 Numerical simulation suite comparing time-stepping methods via gravitational dynamics.
 
@@ -108,10 +127,6 @@ Numerical simulation suite comparing time-stepping methods via gravitational dyn
 R-universe: https://sidrichardsquantum.r-universe.dev/CelestialDynamicsIterationMethods
 
 Website: https://sidrichardsquantum.github.io/Celestial_Dynamics_Iteration_Methods/
-
-### [**Quantum Error Correction**](https://github.com/SidRichardsQuantum/Quantum_Error_Correction)
-
-Exploration of quantum error correction fundamentals and early implementations of small error-correcting codes, aligned with long-term interest in fault-tolerant quantum computing.
 
 ---
 
