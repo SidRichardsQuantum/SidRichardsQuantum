@@ -13,6 +13,21 @@ I'm currently in Sydney, Australia (Working Holiday Visa, subclass 417), working
 
 ---
 
+## [**Quantum Singular Value Transformation (QSVT)**](https://github.com/SidRichardsQuantum/Quantum_Singular_Value_Transformation)
+
+Lightweight toolkit for **spectral transformations via bounded polynomials**, focused on practical QSVT workflows.
+
+- Polynomial functional calculus perspective (QSVT/QSP)
+- Chebyshev approximations, filters, and inverse-like transforms
+- Classical spectral references for validation
+- Modular, reusable polynomial utilities
+
+PyPI: https://pypi.org/project/qsvt-pennylane/
+
+Website: https://sidrichardsquantum.github.io/Quantum_Singular_Value_Transformation/
+
+---
+
 ## [**Variational Quantum Algorithms for Quantum Chemistry (VQE, QPE, QITE)**](https://github.com/SidRichardsQuantum/Variational_Quantum_Eigensolver)
 
 A modular, reproducible PennyLane-based **quantum chemistry simulation suite**, engineered as a clean Python package with CLI + API workflows.
@@ -71,21 +86,6 @@ Quantum optimisation toolkit for portfolio problems, designed as a clean and reu
 PyPI: https://pypi.org/project/vqe-portfolio/
 
 Website: https://sidrichardsquantum.github.io/VQE_Portfolio_Optimization/
-
----
-
-## [**Quantum Singular Value Transformation (QSVT)**](https://github.com/SidRichardsQuantum/Quantum_Singular_Value_Transformation)
-
-Lightweight toolkit for **spectral transformations via bounded polynomials**, focused on practical QSVT workflows.
-
-- Polynomial functional calculus perspective (QSVT/QSP)
-- Chebyshev approximations, filters, and inverse-like transforms
-- Classical spectral references for validation
-- Modular, reusable polynomial utilities
-
-PyPI: https://pypi.org/project/qsvt-pennylane/
-
-Website: https://sidrichardsquantum.github.io/Quantum_Singular_Value_Transformation/
 
 ---
 
