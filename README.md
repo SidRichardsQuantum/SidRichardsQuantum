@@ -7,8 +7,6 @@ Focused on quantum algorithms (VQE, QPE, QSVT), numerical simulation, and physic
 I have a First Class MSci in Theoretical Physics & Mathematics from Lancaster University and I build research-grade open-source projects across quantum computing, photonics, numerical methods, and applied optimisation.
 My work spans quantum chemistry, quantum error mitigation, classical simulation of quantum algorithms, and high-performance scientific modelling.
 
-I'm currently in Sydney, Australia (Working Holiday Visa, subclass 417), working in Home Automation.
-
 **Personal website:** https://SidRichardsQuantum.github.io/
 
 ---
